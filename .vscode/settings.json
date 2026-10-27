@@ -56,5 +56,10 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Portfolio-Project-1-3006.sln"
+    "dotnet.defaultSolution": "Portfolio-Project-1-3006.sln",
+    "cSpell.words": [
+        "Behaviour",
+        "Rigidbody",
+        "Scriptable"
+    ]
 }
